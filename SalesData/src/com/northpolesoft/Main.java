@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("hello world");
 		System.out.println("hello 4");
 		System.out.println("veysel buradaydi");
+		System.out.println("Ertugrul da burada");
 		salesData.display();
 	}
 	
