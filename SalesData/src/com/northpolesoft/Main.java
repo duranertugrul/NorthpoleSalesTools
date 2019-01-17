@@ -7,8 +7,7 @@ public class Main {
 		
 		displayGreeting();
 		System.out.println("hello world");
-		System.out.println("hello 4");
-		System.out.println("veysel buradaydi");
+		System.out.println("hello 3");
 		salesData.display();
 	}
 	
